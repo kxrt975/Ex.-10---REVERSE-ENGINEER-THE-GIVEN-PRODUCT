@@ -35,8 +35,11 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-06 085827](https://github.com/user-attachments/assets/564486cd-ddc8-4e55-b889-b3a7ab6bb178)
+
+
+### Name:R.karthik padmanaban
+### Register Number:24001743
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
