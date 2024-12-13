@@ -32,10 +32,14 @@
 
 ## Input:
 
+![Screenshot 2024-12-13 115048](https://github.com/user-attachments/assets/66b3b062-a37f-434c-ae74-1c9524507972)
+
+
 ### Output:
 
 
-![Screenshot 2024-12-06 085827](https://github.com/user-attachments/assets/564486cd-ddc8-4e55-b889-b3a7ab6bb178)
+![Screenshot 2024-12-13 115142](https://github.com/user-attachments/assets/66d24c1b-10b2-44bf-b133-f8873979c3e7)
+
 
 
 ### Name:R.karthik padmanaban
